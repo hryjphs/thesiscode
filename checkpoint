@@ -1,2 +1,0 @@
-model_checkpoint_path: "target_dc0_ddqn"
-all_model_checkpoint_paths: "target_dc0_ddqn"
